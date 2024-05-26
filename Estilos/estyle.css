@@ -44,7 +44,7 @@ header {
 
 header h1 {
     color: white;
-    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.288);
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.514);
 }
 
 header>p {
@@ -54,7 +54,7 @@ header>p {
     width: 400px;
     padding-top: 20px;
     margin: auto;
-    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.288);
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.425);
 }
 
 nav{
@@ -64,7 +64,7 @@ nav{
 }
 
 nav >a {
-    color: white;
+    color: var(--cor02);
     padding: 10px;
     text-decoration: none;
     font-weight: bold;
@@ -78,12 +78,12 @@ nav >a:hover{
 
 main {
     background-color: white;
-    min-width: 200px;
+    min-width: 300px;
     max-width: 800px;
     padding: 40px;
     margin: auto;
    border-radius: 10px;
-   box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.459);
+   box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.356);
 }
 
 
